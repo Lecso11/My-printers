@@ -15,7 +15,7 @@ Fasteners
 - 2x M3x5x4 heatset insert
 ### Assembly instructions
 0. - You might need longer bolts for mounting the motor, because it has to come through it's mounting ears enough for you to be able to screw the spacers onto the ends of the bolts.
-- You will need to add 1 or 2 more links to your X cable chain OR move it to the left to give it enough place to bend.
+   - You will need to add 1 or 2 more links to your X cable chain OR move it to the left to give it enough place to bend.
 1. Remove support
 ![kép](https://user-images.githubusercontent.com/78912917/164788723-18ad588d-10cf-4f22-93c7-23fdc98f0c58.png)
 2. Install heatset inserts
