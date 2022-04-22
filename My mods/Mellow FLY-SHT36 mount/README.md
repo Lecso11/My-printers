@@ -5,6 +5,7 @@ Printed parts
 - 1x chain_anchor_3holes
 - 1x mounting_plate
 - 2x spacer
+
 Fasteners
 - 2x M3x6 FHSC
 - 2x M3x6 BHSC
