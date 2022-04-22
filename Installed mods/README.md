@@ -1,2 +1,2 @@
 # List of the mods I installed on my printer
-Pins mod by hartk1213
+[Pins mod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod) by hartk1213
