@@ -1,4 +1,3 @@
-# This mod wasn't created by me. I don't know where I found it, and I cannot find the source anymore.
 <img align="right" width="172" height="84" src="IMAGES/BARCODE_LABS.png">
 
 --------------------------------------------------------------------------------
