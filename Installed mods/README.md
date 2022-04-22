@@ -14,4 +14,3 @@ There are mods I can't find the source of, they are uploaded in their correspond
 - [2x3 Microfit3 skirt connector](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/samwiseg0/microfit_2x3_skirt_connector_adxl)
 - [Klicky probe](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/JosAr/Klicky-Probe)
 - [Skirt fan mount](https://www.teamfdm.com/files/file/357-skirt-fan-mount/)
-- 
