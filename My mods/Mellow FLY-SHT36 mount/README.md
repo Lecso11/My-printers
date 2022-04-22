@@ -7,8 +7,8 @@ Printed parts
 - 2x spacer
 
 Fasteners
-- 2x M3x6 FHSC
-- 2x M3x6 BHSC
+- 2x M3x6 FHCS
+- 2x M3x6 BHCS
 - 2x M3x5x4 heatset insert
 ### Assembly instructions
 0. You might need longer bolts for mounting the motor, because it has to come through it's mounting ears enough for you to be able to screw the spacers onto the ends of the bolts.
@@ -16,3 +16,6 @@ Fasteners
 ![kép](https://user-images.githubusercontent.com/78912917/164788723-18ad588d-10cf-4f22-93c7-23fdc98f0c58.png)
 2. Install heatset inserts
 ![kép](https://user-images.githubusercontent.com/78912917/164788871-6bbc3dba-f945-4ad7-8a54-dfb06e72d07d.png)
+3. Screw spacers onto the ends of the motor mounting bolts
+4. Install the mounting plate onto the spacers using the M3x6 FHCS bolts
+5. Install the CAN board onto the mounting plate using the M3x6 BHCS bolts
