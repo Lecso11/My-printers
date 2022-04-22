@@ -11,3 +11,7 @@ Fasteners
 - 2x M3x6 BHSC
 - 2x M3x5x4 heatset insert
 ### Assembly instructions
+1. Remove support
+![kép](https://user-images.githubusercontent.com/78912917/164788723-18ad588d-10cf-4f22-93c7-23fdc98f0c58.png)
+2. Install heatset inserts
+![kép](https://user-images.githubusercontent.com/78912917/164788871-6bbc3dba-f945-4ad7-8a54-dfb06e72d07d.png)
