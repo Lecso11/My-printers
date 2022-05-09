@@ -1,14 +1,16 @@
 # Mount for [Mellow FLY-SHT36](https://www.aliexpress.com/item/1005004048980837.html?spm=a2g0o.order_list.0.0.4f1b1802QnluNC)
 ## This mod allows you to use Mellow FLY-SHT36 CAN toolhead board with CW2 and a cable chain.
-!!!Only tested with 17mm stepper motor.!!!
+!!!Only tested with 17mm stepper motor!!!
 ![Képernyőkép 2022-04-22 221719](https://user-images.githubusercontent.com/78912917/164789705-8c665253-88ec-449e-a246-1a6e92eff0f9.jpg)
 ![Képernyőkép 2022-04-22 221640](https://user-images.githubusercontent.com/78912917/164789717-0615889c-7ea9-4d93-ad65-8c0de99877ee.jpg)
+
+I recommend printing it in a more heat resistant material, as ABS bent from the heat of the stepper in my case.
 
 ### BOM
 Printed parts
 - 1x chain_anchor_3holes
 - 1x mounting_plate
-- 2x spacer
+- 2x spacer (14mm long for 17mm stepper, 17mm for 20mm stepper)
 
 Fasteners
 - 2x M3x6 FHCS
